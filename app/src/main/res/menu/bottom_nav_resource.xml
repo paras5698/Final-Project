@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/bottom_nav_menu3"
+        android:title="home"
+        android:icon="@drawable/ic_baseline_home_24">
+    </item>
+
+    <item
+        android:id="@+id/bottom_nav_menu"
+        android:title="Pakage"
+        app:itemBackground="@color/white"
+        android:icon="@drawable/ic_hotel">
+
+
+    </item>
+
+    <item
+        android:id="@+id/bottom_nav_menu1"
+        android:title="find Buddy"
+        android:icon="@drawable/ic_travelbuddy">
+
+
+    </item>
+
+
+    <item
+        android:id="@+id/bottom_nav_menu2"
+        android:title="about-us"
+        android:icon="@drawable/ic_profile">
+
+
+    </item>
+
+</menu>
